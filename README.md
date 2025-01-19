@@ -1,6 +1,26 @@
 # instagramDontFollowMeBack
 This script shows you the people who don't follow you back, the people you don't follow back, all your followers and the people you follow.
-Just change the 
+
+## Steps 
+
+### Step 1: 
+Open a web browser and log in to instagram.com.
+
+### Step 2:
+Open a console: Ctrl+Shift+J.
+
+### Step 3:
+Copy and change the USERNAME according to your username.
+
+### Step 4:
+Run it and wait a couple of seconds.
+
+### Step 5:
+You can copy and paste your data. Type 'copy(followers)' or 'copy(followings)' or 'copy(dontFollowMeBack)' or 'copy(iDontFollowBack)' in the console and paste to a text editor to see your data.
+
+Enjoy 🚀!
+
+
 
 ```
 const username = "USERNAME";
